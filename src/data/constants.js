@@ -9,11 +9,10 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/emiliano90",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1DMXoYXIP60rUNyLQjzlQxHD6m0ISSohz/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/emiliano-lorusso/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  insta: "https://www.instagram.com/emiliano_loru/",
+  facebook: "https://www.facebook.com/emiliano.lorusso.3/",
 };
 
 export const skills = [
@@ -281,28 +280,18 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
+    title: "Portfolio",
     date: "Jun 2023 - Jul 2023",
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "portfolio.jpg",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
       "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/emiliano90/portfolio-react",
+    webapp: "",
   },
   {
     id: 0,
